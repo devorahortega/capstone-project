@@ -21,5 +21,8 @@ Models:
 - plot points
 - flora + fauna
 - places
+- category
 
-If I was to simplify I would want to make an app that contains writing prompts only and allows users to create prompts. These prompts can be split up by 'tags'.
+If I was to simplify I would want to make an app that contains writing prompts only and allows users to create prompts. These prompts can be split up by 'tags' or categories.
+
+For example, some writing prompts could be 'journal entries', 'fantasy', 'si-fi' etc.
