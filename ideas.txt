@@ -1,0 +1,25 @@
+CRUD:
+
+Index:
+  - show list of model chosen
+
+Create:
+  - creates an instance
+
+Show:
+  - show chosen instance
+
+Update:
+  - changes the instance
+
+Delete
+  - delete the instance
+
+Models:
+- prompts
+- characters
+- plot points
+- flora + fauna
+- places
+
+If I was to simplify I would want to make an app that contains writing prompts only and allows users to create prompts. These prompts can be split up by 'tags'.
